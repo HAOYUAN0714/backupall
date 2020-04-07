@@ -1,0 +1,7 @@
+Host gitlab
+  Hostname rda-gitlab-prob.vir888.com
+  IdentityFile ~/.ssh/id_rsa_4096_20200115
+  PreferredAuthentications publickey
+  IdentitiesOnly yes
+  Port 2101
+  

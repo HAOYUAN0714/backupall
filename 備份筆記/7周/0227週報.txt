@@ -1,0 +1,29 @@
+本周工作項目
+
+  1. 閱讀 JavascriptTheGoodParts 學習 JS 優化技巧並製作簡報 (100%)
+
+  2. 實作 RESTfulAPI 並製作簡報 (100%)
+
+  3. 學習 Docker 並製成簡報 (25%)
+
+
+本周工作項目心得
+
+  本周完成了 JavascriptTheGoodParts 學習簡報 與 RESTfulAPI實作及簡報 兩個項目。
+
+  1. 藉由閱讀 JavascriptTheGoodParts 學習如何撰寫效率更加的程式碼以幫助以後開發時養成更好的習慣
+
+  2. 練習以 Node.js 的 express 搭配 firebase 的資料庫實作 RESTfulAPI 架構，藉由本次練習，重新理清了
+
+     API 、 REST API 與 RESTful API 3 者 的關係，改掉以前把 REST API 與 RESTful API 畫上等號的概念。
+
+     整體 RESTful API 的理解有更深的體悟。
+
+  3. Docker 虛擬容器是有聽過但從來沒接觸過的技術 ，以前看了很多文章還是不太理解，
+    
+     這次藉由實際去安裝操作並編寫 Dockerfile 為 RESTfulAPI 的作業製作 docker image ，並實際運行專案成功後，
+
+     對 docker 的認識變得清晰許多 。     
+
+  
+

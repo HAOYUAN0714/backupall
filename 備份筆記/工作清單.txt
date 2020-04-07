@@ -1,0 +1,45 @@
+一. PTT 學習簡報
+
+  1.簡報時的一般要點
+
+  2.HtmlCssJs
+
+  3.敏捷開發
+
+  4.browserSupport
+
+  5.DevOps
+
+  6.ES6
+
+  7.APIRestfulPratice
+
+  8.ContainerDocker
+
+  9.JavascriptTheGoodParts
+
+  10.Webpack
+
+  11.XBB體育
+
+二. 實做練習
+
+  1.新人訓練 - 網頁切版
+
+  2.新人訓練 - 輪播圖實作
+
+  3.docker image 實作練習
+
+  4.webpack 實作練習
+
+  5.RESTfulApi 實作練習
+
+三. 公司實務
+
+  1. XBB 體育賽事測試站之 客端、控端、賽程中心 管理操作
+
+  2. BB sport 頁面專案製作
+
+
+
+
